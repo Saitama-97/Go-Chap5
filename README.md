@@ -1,2 +1,4 @@
 # Go-Chap5
-method, function, interface
+
+## method, function, interface
+![img.png](img.png)
